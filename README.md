@@ -1,0 +1,1 @@
+# react-native-pager-view-5.4.0
